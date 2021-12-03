@@ -2,10 +2,14 @@
 	width: 200px;
 	height:	200px;
 	background-color: lightgreen;
-	margin: 100px 30px 150px 50px; /*margin: top right botom left*/
-	/*jika 1 property, margin: 100px -> margin: 100px 100px 100px 100px*/
+	/*margin: top right botom left*/
+	margin: 100px 30px 150px 50px;
+	/* jika 1 property, margin: 100px -> margin: 100px 100px 100px 100px */
+	/* margin: 100px; */
 	/*jika 2 property, margin: 100px 50px -> margin: 100px 50px 100px 50px*/
-	/*jika 3 property, margin: 100px 50px 200px -> margin: 100px 50px 50px 200px*/
+	/* margin: 100px 50px; */
+	/*jika 3 property, margin: 100px 50px 200px -> margin: 100px 50px 200px 50px*/
+	/* margin: 100px 50px 200px; */
 }
 
 .dua{
