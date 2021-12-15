@@ -1,0 +1,11 @@
+// @import 'mixin';
+// @import 'modules/header';
+// @import 'modules/container';
+// @import 'modules/footer';
+
+// @import 'mixin', 'modules/header', 'modules/container', 'modules/footer
+
+// @use 'mixin'; // mixin dipanggil dengan @use di file yang menjalankannya
+@use 'modules/header';
+@use 'modules/container';
+@use 'modules/footer';
